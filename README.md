@@ -1,3 +1,3 @@
 # COMP313-A3
 
-THe image files needed for the Code Reflection
+The image files needed for the Code Reflection
